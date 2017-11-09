@@ -1,4 +1,4 @@
-# Auto_feed_fsm
+# Auto_feed_v1
 ###auto feed system for laser cut, the controller of laser cut is MPC6515
 
 This controller is arduino nano 328p 
